@@ -1,0 +1,35 @@
+# Ignore the output folder containing compiled programs
+output/
+
+# C++ compiled files
+*.exe
+*.out
+*.o
+*.obj
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+*.pdb
+*.ilk
+
+# Build directories
+build/
+bin/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+Thumbs.db
+desktop.ini
+.DS_Store
