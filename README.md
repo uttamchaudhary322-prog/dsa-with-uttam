@@ -33,7 +33,7 @@ basic C++ concepts that appear in programming solutions.
 
 ### Planned Concepts
 
-- [ ] 01. Introduction to C++ and Program Structure
+- ✅ 01. Introduction to C++ and Program Structure
 - [ ] 02. Variables, Data Types, and Constants
 - [ ] 03. Input and Output (`cin`, `cout`)
 - [ ] 04. Operators and Expressions
