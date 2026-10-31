@@ -12,7 +12,7 @@ Understand the structure of a minimal C++ program and what each part does.
 #include <iostream>
 
 int main() {
-    std::cout << "Hello, World!\n";
+    cout << "Hello, World!\n";
     return 0;
 }
 ```
@@ -20,7 +20,7 @@ int main() {
 ## Explanation
 
 ### 1. `#include <iostream>`
-Includes standard input/output stream declarations, allowing the program to use tools such as `std::cout` and `std::cin`.
+Includes standard input/output stream declarations, allowing the program to use tools such as `cout` and `cin`.
 
 ### 2. `int main()`
 `main` is the entry point of a hosted C++ program. The `int` return type means it returns an integer status to the environment.
@@ -28,8 +28,8 @@ Includes standard input/output stream declarations, allowing the program to use 
 ### 3. Braces `{ }`
 The braces mark the beginning and end of the function body. Statements inside the braces are part of `main`.
 
-### 4. `std::cout << "Hello, World!\n";`
-- `std::cout` is the standard output stream.
+### 4. `cout << "Hello, World!\n";`
+- `cout` is the standard output stream.
 - `<<` inserts data into the output stream.
 - `"Hello, World!\n"` is a string literal. `\n` adds a newline.
 - `;` terminates the statement.

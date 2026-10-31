@@ -12,7 +12,7 @@ By the end of this lesson, you should be able to:
 - Explain what a variable is.
 - Distinguish declaration, initialization, and assignment.
 - Choose a suitable built-in type for common values.
-- Use `std::string` for text.
+- Use `string` for text.
 - Declare constants with `const`.
 - Follow basic C++ identifier naming rules.
 
@@ -55,12 +55,12 @@ For many everyday decimal calculations, `double` is a sensible default. The exac
 ```cpp
 char grade = 'A';
 bool isPracticing = true;
-std::string name = "Uttam";
+string name = "Uttam";
 ```
 
 - `char` stores a character. Character literals use single quotes.
-- `bool` stores `true` or `false`. When streamed without `std::boolalpha`, it normally prints as `1` or `0`.
-- `std::string` stores text. Include `<string>` and use double quotes for string literals.
+- `bool` stores `true` or `false`. When streamed without `boolalpha`, it normally prints as `1` or `0`.
+- `string` stores text. Include `<string>` and use double quotes for string literals.
 
 ## 5. Constants with `const`
 
@@ -121,7 +121,7 @@ g++ variables-data-types-constants.cpp -o variables
 3. Add a `char` variable for a grade.
 4. Add a `const double` for a fixed tax rate or conversion factor.
 5. Try assigning a new value to `daysPerWeek`. Read the compiler error.
-6. Print a Boolean once normally and once with `std::boolalpha`.
+6. Print a Boolean once normally and once with `boolalpha`.
 
 ## Key takeaway
 
