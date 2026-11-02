@@ -10,6 +10,9 @@ Understand the structure of a minimal C++ program and what each part does.
 ## Example program
 ```cpp
 #include <iostream>
+#include <string>
+
+using namespace std;
 
 int main() {
     cout << "Hello, World!\n";

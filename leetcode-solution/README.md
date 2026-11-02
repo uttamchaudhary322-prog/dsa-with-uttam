@@ -21,6 +21,7 @@ problem up in the index below.
 
 | # | Problem | Difficulty | Solution | Lesson |
 |---|---|---|---|---|
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [`1281.cpp`](1281.cpp) | [04. Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [`2413.cpp`](2413.cpp) | [04. Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 
 New solutions are added to this table as they are published.
@@ -48,12 +49,6 @@ public:
         return n;
     }
 };
-
-int main() {
-    Solution solution;
-    cout << solution.functionName(5) << '\n';   // sample test
-    return 0;
-}
 ```
 
 - `class Solution` is the part you paste into LeetCode.

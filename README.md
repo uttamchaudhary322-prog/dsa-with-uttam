@@ -33,10 +33,10 @@ basic C++ concepts that appear in programming solutions.
 
 ### Planned Concepts
 
-- ✅ 01. Introduction to C++ and Program Structure
-- ✅ 02. Variables, Data Types, and Constants
-- ✅ 03. Input and Output (`cin`, `cout`)
-- ✅ 04. Operators and Expressions
+- ✅ [01. Introduction to C++ and Program Structure](./cpp-fundamentals/01-introduction-and-program-structure/)
+- ✅ [02. Variables, Data Types, and Constants](./cpp-fundamentals/02-variables-data-types-constants/)
+- ✅ [03. Input and Output (`cin`, `cout`)](./cpp-fundamentals/03-input-and-output-cin-cout/)
+- ✅ [04. Operators and Expressions](./cpp-fundamentals/04-operators-and-expressions/)
 - [ ] 05. Conditional Statements (`if`, `else`, `switch`)
 - [ ] 06. Loops (`for`, `while`, `do-while`)
 - [ ] 07. Functions, Parameters, and Return Values

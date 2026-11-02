@@ -58,6 +58,9 @@ Use `getline(cin, fullName)` to read an entire line, including spaces:
 ```cpp
 #include <iostream>
 #include <string>
+
+using namespace std;
+
 int main() {
     string fullName;
     cout << "Enter your full name: ";
