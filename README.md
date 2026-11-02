@@ -36,7 +36,7 @@ basic C++ concepts that appear in programming solutions.
 - ✅ 01. Introduction to C++ and Program Structure
 - ✅ 02. Variables, Data Types, and Constants
 - ✅ 03. Input and Output (`cin`, `cout`)
-- [ ] 04. Operators and Expressions
+- ✅ 04. Operators and Expressions
 - [ ] 05. Conditional Statements (`if`, `else`, `switch`)
 - [ ] 06. Loops (`for`, `while`, `do-while`)
 - [ ] 07. Functions, Parameters, and Return Values
@@ -207,6 +207,12 @@ will be organized like this:
 This is an example of the planned structure, not a list of folders 
 that already exist.
 
+The folders that exist today are:
+
+    dsa-with-uttam/
+    ├── cpp-fundamentals/     # C++ lessons: README, code, and practice files
+    └── leetcode-solution/    # LeetCode solutions, one file per problem
+
 Individual concepts may include:
 - Concept explanations
 - Worked examples and walkthroughs
@@ -217,6 +223,27 @@ Individual concepts may include:
 
 Only the topics and files that have been added will be available 
 in the repository.
+
+---
+
+## 🧩 LeetCode Solutions
+
+C++ solutions to the LeetCode problems I mention in my posts and practice 
+files are collected in one folder: [`leetcode-solution/`](leetcode-solution/).
+
+**How to find a solution:**
+
+1. Note the problem number, for example **2413. Smallest Even Multiple**.
+2. Open the [`leetcode-solution/`](leetcode-solution/) folder.
+3. Open the file named after that number: [`2413.cpp`](leetcode-solution/2413.cpp).
+
+Every file is named `<problem-number>.cpp`. On GitHub you can press `t` 
+inside the repository and type the number to jump straight to the file.
+
+The [folder README](leetcode-solution/README.md) has the full index with 
+problem names, difficulty, and the lesson each problem belongs to.
+
+Try each problem yourself first, then compare your approach with the solution.
 
 ---
 

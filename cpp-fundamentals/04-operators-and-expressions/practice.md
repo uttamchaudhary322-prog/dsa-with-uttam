@@ -108,6 +108,8 @@ Expected output:
 
 Both are function-based problems: you write one function and return the answer instead of reading input.
 
+Tried it yourself? Compare your approach with the C++ solutions in the [`leetcode-solution/`](../../leetcode-solution/README.md) folder.
+
 ## Self-check
 - [ ] I can explain the difference between an operator and an operand.
 - [ ] I know why `7 / 2` is `3` and how to get `3.5`.
