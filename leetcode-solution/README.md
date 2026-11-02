@@ -70,10 +70,7 @@ leetcode-solution/
 ├── README.md
 ├── 1281.cpp
 ├── 2413.cpp
-│
-└── tests/
-    ├── 1281_test.cpp
-    └── 2413_test.cpp
+
 ```
 
 The test drivers can include the corresponding solution file and call its methods from `main()`.
