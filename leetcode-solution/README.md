@@ -1,72 +1,100 @@
 # LeetCode Solutions
 
-C++ solutions to the LeetCode problems I cover on Instagram
-([@dsa.with.uttam](https://www.instagram.com/dsa.with.uttam/)) and in the
-`practice.md` files of the lessons.
+This folder contains my C++ solutions to LeetCode problems that I solve while learning Data Structures and Algorithms.
 
-Try each problem yourself first. Then compare your approach with the solution.
+I also share explanations and problem-solving concepts through Instagram: [@dsa.with.uttam](https://www.instagram.com/dsa.with.uttam/).
 
-## How to find a solution
+The solutions are organized by LeetCode problem number for easy navigation.
 
-1. Find the problem number on LeetCode. For example, **2413. Smallest Even Multiple** has the number `2413`.
-2. Open the file with that number in this folder: [`2413.cpp`](2413.cpp).
+## How to Find a Solution
 
-Every solution file is named `<problem-number>.cpp`. You can also look the
-problem up in the index below.
+1. Find the problem number on LeetCode.
+2. Open the solution index below.
+3. Find the corresponding problem number.
+4. Open its `.cpp` file.
 
-> **Tip:** On GitHub, press `t` while viewing the repository and type the
-> problem number to jump straight to its file.
+**Example:** Problem 2413 → `2413.cpp`
 
-## Solution index
+You can also press `t` while browsing this repository on GitHub and search for the filename.
 
-| # | Problem | Difficulty | Solution | Lesson |
+## Solution Index
+
+| Problem No. | Problem Name | Difficulty | Solution | Related Lesson |
 |---|---|---|---|---|
-| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [`1281.cpp`](1281.cpp) | [04. Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
-| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [`2413.cpp`](2413.cpp) | [04. Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
+| 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [1281.cpp](./1281.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
+| 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [2413.cpp](./2413.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 
-New solutions are added to this table as they are published.
+New solutions will be added to this table as I solve more problems.
 
-## What each solution file contains
+## Code Structure
 
-Every file follows the same layout:
+Each solution file follows a consistent structure:
+
+- Problem number and title
+- Difficulty
+- LeetCode problem link
+- Approach explanation
+- Time complexity
+- Space complexity
+- C++ solution using `class Solution`
+
+Example:
 
 ```cpp
-// LeetCode <number>. <Problem title>
-// Difficulty: Easy | Medium | Hard
-// Link: https://leetcode.com/problems/<problem-slug>/
+// Problem: <number>. <problem title>
+// Difficulty: Easy
+// Link: <LeetCode problem URL>
 //
-// Approach: one or two lines explaining the idea.
-// Time: O(...)    Space: O(...)
-
-#include <iostream>
-
-using namespace std;
+// Approach: Brief explanation.
+// Time Complexity: O(...)
+// Space Complexity: O(...)
 
 class Solution {
 public:
-    int functionName(int n) {
-        // solution goes here
-        return n;
-    }
+    // LeetCode solution
 };
 ```
 
-- `class Solution` is the part you paste into LeetCode.
+## Running Solutions Locally
 
-## Compile and run
+LeetCode solution files contain the `Solution` class but do not contain a `main()` function.
 
-### Windows (MSYS2 UCRT64 / MinGW)
-```bash
-g++ -std=c++17 2413.cpp -o 2413.exe
-./2413.exe
+LeetCode provides the test harness when you submit your solution. Therefore, these files are not intended to be compiled directly as standalone programs.
+
+For local testing, separate test-driver files can be created inside a `tests/` folder.
+
+Example structure:
+
+```text
+leetcode-solution/
+├── README.md
+├── 1281.cpp
+├── 2413.cpp
+│
+└── tests/
+    ├── 1281_test.cpp
+    └── 2413_test.cpp
 ```
 
-### Linux / macOS
-```bash
-g++ -std=c++17 2413.cpp -o 2413
-./2413
-```
+The test drivers can include the corresponding solution file and call its methods from `main()`.
 
-## Back to the lessons
+## Related Resources
 
-See the [main README](../README.md) for the full C++ Fundamentals and DSA roadmap.
+- [Main Repository README](../README.md)
+- [C++ Fundamentals](../cpp-fundamentals/)
+- [LeetCode](https://leetcode.com/)
+- [Instagram - @dsa.with.uttam](https://www.instagram.com/uttamchaudhary484/)
+
+## My Goal
+
+I aim to understand every problem before looking at its solution.
+
+My focus is on learning:
+
+- Problem-solving approaches
+- Data structures and algorithms
+- Code optimization
+- Time and space complexity
+- Edge cases and logical thinking
+
+**Understand the problem. Build the logic. Write the solution.**
