@@ -52,7 +52,6 @@ public:
 ```
 
 - `class Solution` is the part you paste into LeetCode.
-- `main()` is only there so the file can be compiled and tested on your computer.
 
 ## Compile and run
 
