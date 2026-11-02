@@ -104,7 +104,7 @@ Expected output:
 
 ## LeetCode practice (optional)
 - [2413. Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) - Easy. Think about what `n % 2` tells you.
-- [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) - Easy. It uses `/` and `%`, and it is easier with loops, so you can also return to it after the loops lesson.
+- [1281. Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) - Easy. It uses `/` and `%`, and it is easier with loops, so you can also return to it after the loops(next) lesson.
 
 Both are function-based problems: you write one function and return the answer instead of reading input.
 
