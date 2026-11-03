@@ -22,6 +22,8 @@ You can also press `t` while browsing this repository on GitHub and search for t
 | Problem No. | Problem Name | Difficulty | Solution | Related Lesson |
 |---|---|---|---|---|
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [1281.cpp](./1281.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
+| 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [1523.cpp](./1523.cpp) | [Conditional statement if, else, switch](../cpp-fundamentals/05-conditional-statements-if-else-switch) |
+| 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy | [1812.cpp](./1812.cpp) | [Conditional statement if, else, switch](../cpp-fundamentals/05-conditional-statements-if-else-switch) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [2413.cpp](./2413.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 
 New solutions will be added to this table as I solve more problems.
