@@ -38,7 +38,7 @@ basic C++ concepts that appear in programming solutions.
 - ✅ [03. Input and Output (`cin`, `cout`)](./cpp-fundamentals/03-input-and-output-cin-cout/)
 - ✅ [04. Operators and Expressions](./cpp-fundamentals/04-operators-and-expressions/)
 - ✅ [05. Conditional Statements (`if`, `else`, `switch`)](./cpp-fundamentals/05-conditional-statements-if-else-switch/)
-- [ ] 06. Loops (`for`, `while`, `do-while`)
+- ✅ [06. Loops (`for`, `while`, `do-while`)](./cpp-fundamentals/06-loops-for-while-do-while/)
 - [ ] 07. Functions, Parameters, and Return Values
 - [ ] 08. Arrays and Basic Array Operations
 - [ ] 09. Strings and String Operations
