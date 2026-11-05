@@ -26,8 +26,10 @@ You can also press `t` while browsing this repository on GitHub and search for t
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.cpp](./412.cpp) | [Loops: for, while, do while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [1523.cpp](./1523.cpp) | [Conditional statement if, else, switch](../cpp-fundamentals/05-conditional-statements-if-else-switch) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy | [1812.cpp](./1812.cpp) | [Conditional statement if, else, switch](../cpp-fundamentals/05-conditional-statements-if-else-switch) |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [2235.cpp](./2235.cpp) | [functions parameters return values](../cpp-fundamentals/04-operators-and-expressions/) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [2413.cpp](./2413.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | [2894.cpp](./2894.cpp) | [Loops: for, while, do while](../cpp-fundamentals/06-loops-for-while-do-while/) |
+| 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy | [3099.cpp](./3099.cpp) | [functions parameters return values](../cpp-fundamentals/06-loops-for-while-do-while/) |
 
 New solutions will be added to this table as I solve more problems.
 
