@@ -40,7 +40,7 @@ basic C++ concepts that appear in programming solutions.
 - ✅ [05. Conditional Statements (`if`, `else`, `switch`)](./cpp-fundamentals/05-conditional-statements-if-else-switch/)
 - ✅ [06. Loops (`for`, `while`, `do-while`)](./cpp-fundamentals/06-loops-for-while-do-while/)
 - ✅ [07. Functions, Parameters, and Return Values](./cpp-fundamentals/07-functions-parameters-return-values/)
-- [ ] 08. Arrays and Basic Array Operations
+- ✅ [08. Arrays and Basic Array Operations](./cpp-fundamentals/08-arrays-and-basic-array-operations/)
 - [ ] 09. Strings and String Operations
 - [ ] 10. Vectors in C++
 - [ ] 11. References and Pointers — The Basics
