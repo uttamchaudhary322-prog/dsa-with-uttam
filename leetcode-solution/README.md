@@ -21,11 +21,14 @@ You can also press `t` while browsing this repository on GitHub and search for t
 
 | Problem No. | Problem Name | Difficulty | Solution | Related Lesson |
 |---|---|---|---|---|
+| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.cpp](./412.cpp) | [Loops: for, while, do while](../cpp-fundamentals/06-loops-for-while-do-while/) |
+| 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [485.cpp](./485.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [1281.cpp](./1281.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [1342.cpp](./1342.cpp) | [Loops: for, while, do while](../cpp-fundamentals/06-loops-for-while-do-while/) |
-| 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.cpp](./412.cpp) | [Loops: for, while, do while](../cpp-fundamentals/06-loops-for-while-do-while/) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [480.cpp](./480.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [1523.cpp](./1523.cpp) | [Conditional statement if, else, switch](../cpp-fundamentals/05-conditional-statements-if-else-switch) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy | [1812.cpp](./1812.cpp) | [Conditional statement if, else, switch](../cpp-fundamentals/05-conditional-statements-if-else-switch) |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [1929.cpp](./1929.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [2235.cpp](./2235.cpp) | [functions parameters return values](../cpp-fundamentals/04-operators-and-expressions/) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [2413.cpp](./2413.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | [2894.cpp](./2894.cpp) | [Loops: for, while, do while](../cpp-fundamentals/06-loops-for-while-do-while/) |
