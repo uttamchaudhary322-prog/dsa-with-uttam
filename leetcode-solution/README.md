@@ -25,15 +25,14 @@ You can also press `t` while browsing this repository on GitHub and search for t
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [485.cpp](./485.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [1281.cpp](./1281.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [1342.cpp](./1342.cpp) | [Loops: for, while, do while](../cpp-fundamentals/06-loops-for-while-do-while/) |
-| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [480.cpp](./480.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
+| 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [1480.cpp](./1480.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [1523.cpp](./1523.cpp) | [Conditional statement if, else, switch](../cpp-fundamentals/05-conditional-statements-if-else-switch) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy | [1812.cpp](./1812.cpp) | [Conditional statement if, else, switch](../cpp-fundamentals/05-conditional-statements-if-else-switch) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [1929.cpp](./1929.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
-| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [2235.cpp](./2235.cpp) | [functions parameters return values](../cpp-fundamentals/04-operators-and-expressions/) |
+| 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [2235.cpp](./2235.cpp) | [Functions, Parameters, and Return Values](../cpp-fundamentals/07-functions-parameters-return-values/) |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple/) | Easy | [2413.cpp](./2413.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/) | Easy | [2894.cpp](./2894.cpp) | [Loops: for, while, do while](../cpp-fundamentals/06-loops-for-while-do-while/) |
-| 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy | [3099.cpp](./3099.cpp) | [functions parameters return values](../cpp-fundamentals/06-loops-for-while-do-while/) |
-
+| 3099 | [Harshad Number](https://leetcode.com/problems/harshad-number/) | Easy | [3099.cpp](./3099.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 New solutions will be added to this table as I solve more problems.
 
 ## Code Structure
@@ -65,32 +64,27 @@ public:
 };
 ```
 
-## Running Solutions Locally
+## Using These Solutions
 
-LeetCode solution files contain the `Solution` class but do not contain a `main()` function.
+Each solution file follows LeetCode's submission format and contains a
+`Solution` class without a `main()` function.
 
-LeetCode provides the test harness when you submit your solution. Therefore, these files are not intended to be compiled directly as standalone programs.
+To use a solution:
 
-For local testing, separate test-driver files can be created inside a `tests/` folder.
+1. Open the corresponding problem on LeetCode.
+2. Select C++ as the programming language.
+3. Copy the solution into the LeetCode editor.
+4. Run the provided test cases or submit your solution.
 
-Example structure:
-
-```text
-leetcode-solution/
-├── README.md
-├── 1281.cpp
-├── 2413.cpp
-
-```
-
-The test drivers can include the corresponding solution file and call its methods from `main()`.
+LeetCode provides the test harness, so these files are intended for
+LeetCode submissions rather than standalone compilation.
 
 ## Related Resources
 
 - [Main Repository README](../README.md)
 - [C++ Fundamentals](../cpp-fundamentals/)
 - [LeetCode](https://leetcode.com/)
-- [Instagram - @dsa.with.uttam](https://www.instagram.com/uttamchaudhary484/)
+- [Instagram - @dsa.with.uttam](https://www.instagram.com/dsa.with.uttam/)
 
 ## My Goal
 
