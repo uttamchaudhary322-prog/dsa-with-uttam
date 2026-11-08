@@ -21,12 +21,15 @@ You can also press `t` while browsing this repository on GitHub and search for t
 
 | Problem No. | Problem Name | Difficulty | Solution | Related Lesson |
 |---|---|---|---|---|
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [58.cpp](./58.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.cpp](./412.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [485.cpp](./485.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
+| 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Easy | [709.cpp](./709.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [1281.cpp](./1281.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [1342.cpp](./1342.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [1480.cpp](./1480.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [1523.cpp](./1523.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
+| 1768 | [Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/) | Easy | [1768.cpp](./1768.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
 | 1812 | [Determine Color of a Chessboard Square](https://leetcode.com/problems/determine-color-of-a-chessboard-square/) | Easy | [1812.cpp](./1812.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Easy | [1929.cpp](./1929.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Easy | [2235.cpp](./2235.cpp) | [Functions, Parameters, and Return Values](../cpp-fundamentals/07-functions-parameters-return-values/) |
