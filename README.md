@@ -43,7 +43,7 @@ basic C++ concepts that appear in programming solutions.
 - ✅ [08. Arrays and Basic Array Operations](./cpp-fundamentals/08-arrays-and-basic-array-operations/)
 - ✅ [09. Strings and String Operations](./cpp-fundamentals/09-strings-and-string-operations/)
 - ✅ [10. Vectors in C++](./cpp-fundamentals/10-vectors-in-cpp/)
-- [ ] 11. References and Pointers — The Basics
+- ✅ [11. References and Pointers — The Basics](./cpp-fundamentals/11-references-and-pointers-the-basics/)
 - [ ] 12. Recursion Fundamentals
 - [ ] 13. C++ STL Essentials for DSA
 - [ ] 14. Pairs, Sorting, and Searching Utilities
