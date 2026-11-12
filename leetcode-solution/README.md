@@ -21,7 +21,10 @@ You can also press `t` while browsing this repository on GitHub and search for t
 
 | Problem No. | Problem Name | Difficulty | Solution | Related Lesson |
 |---|---|---|---|---|
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [26.cpp](./26.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [58.cpp](./58.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283.cpp](./283.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [344.cpp](./344.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.cpp](./412.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [485.cpp](./485.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Easy | [709.cpp](./709.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
