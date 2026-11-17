@@ -23,10 +23,13 @@ You can also press `t` while browsing this repository on GitHub and search for t
 |---|---|---|---|---|
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [26.cpp](./26.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [58.cpp](./58.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [231.cpp](./231.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [258.cpp](./258.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283.cpp](./283.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [344.cpp](./344.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.cpp](./412.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [485.cpp](./485.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [509.cpp](./509.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Easy | [709.cpp](./709.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [1281.cpp](./1281.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [1342.cpp](./1342.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
