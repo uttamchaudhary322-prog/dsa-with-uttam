@@ -45,7 +45,7 @@ basic C++ concepts that appear in programming solutions.
 - ✅ [10. Vectors in C++](./cpp-fundamentals/10-vectors-in-cpp/)
 - ✅ [11. References and Pointers — The Basics](./cpp-fundamentals/11-references-and-pointers-the-basics/)
 - ✅ [12. Recursion Fundamentals](./cpp-fundamentals/12-recursion-fundamentals/)
-- [ ] 13. C++ STL Essentials for DSA
+- ✅ [13. C++ STL Essentials for DSA](./cpp-fundamentals/13-cpp-stl-essentials-for-dsa/)
 - [ ] 14. Pairs, Sorting, and Searching Utilities
 - [ ] 15. `stack`, `queue`, `set`, and `unordered_map`
 - [ ] 16. Time and Space Complexity Fundamentals
