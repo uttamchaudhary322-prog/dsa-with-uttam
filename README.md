@@ -47,7 +47,7 @@ basic C++ concepts that appear in programming solutions.
 - ✅ [12. Recursion Fundamentals](./cpp-fundamentals/12-recursion-fundamentals/)
 - ✅ [13. C++ STL Essentials for DSA](./cpp-fundamentals/13-cpp-stl-essentials-for-dsa/)
 - ✅ [14. Pairs, Sorting, and Searching Utilities](./cpp-fundamentals/14-pairs-sorting-and-searching-utilities/)
-- [ ] 15. `stack`, `queue`, `set`, and `unordered_map`
+- ✅ [15. `stack`, `queue`, `set`, and `unordered_map`](./cpp-fundamentals/15-stack-queue-set-and-unordered-map/)
 - [ ] 16. Time and Space Complexity Fundamentals
 
 These concepts will be explained through small examples and practical 
