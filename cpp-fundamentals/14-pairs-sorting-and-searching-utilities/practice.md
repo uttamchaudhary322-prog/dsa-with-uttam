@@ -50,3 +50,15 @@ Explain why `[](int a,int b){ return a <= b; }` is not a valid comparator.
 
 ## Exercise 10 - Challenge
 Solve LeetCode **1. Two Sum** with sort + two pointers while keeping the original indexes.
+
+## Related practice
+After finishing the exercises, try these LeetCode problems:
+
+| Problem | Why it fits |
+|---|---|
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Sort and remove duplicates |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Sort with original indexes and use two pointers |
+| [704. Binary Search](https://leetcode.com/problems/binary-search/) | Search a sorted array |
+| [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Find an insertion index with `lower_bound` |
+| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Sort and find unique common values |
+| [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Sort with a custom comparator |

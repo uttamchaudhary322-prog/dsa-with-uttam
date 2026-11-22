@@ -42,3 +42,15 @@ Read words, count them in a `map<string,int>`, print them in alphabetical order 
 
 ## Exercise 10 - Challenge
 Solve LeetCode **1. Two Sum** with `unordered_map` in one pass.
+
+## Related practice
+After finishing the exercises, try these LeetCode problems:
+
+| Problem | Why it fits |
+|---|---|
+| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Match brackets with a stack |
+| [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Track seen values with a set |
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | Find complements with an `unordered_map` |
+| [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | Combine stack operations to build a queue |
+| [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Count characters with a map |
+| [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | Count frequencies and find the first unique character |

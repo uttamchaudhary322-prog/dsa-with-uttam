@@ -115,13 +115,35 @@ for (int x : a) freq[x]++;       // new key starts at 0
 | `10_mistake_operator_bracket.cpp` | `m[key]` creates the key |
 | `11_mistake_empty_top.cpp` | empty checks, `pop()` is void |
 
-Compile any file with `g++ -std=c++17 file.cpp -o out && ./out`.
+Compile with warnings turned on to catch some of these:
+```bash
+g++ -std=c++17 -Wall -Wextra your-file.cpp -o your-file
+```
 
-## LeetCode practice
+## Compile and run
 
-- [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
-- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [1. Two Sum](https://leetcode.com/problems/two-sum/)
-- [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-- [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
-- [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+### Windows (MSYS2 UCRT64 / MinGW)
+```bash
+g++ -std=c++17 stl-essentials.cpp -o stl-essentials.exe
+./stl-essentials.exe
+```
+
+### Linux / macOS
+```bash
+g++ -std=c++17 stl-essentials.cpp -o stl-essentials
+./stl-essentials
+```
+
+## Practice
+
+Open [`practice.md`](practice.md) for exercises.
+
+## Key takeaway
+
+Choose the container that matches the job: use `stack` for LIFO, `queue` for FIFO, `set` for sorted unique values, and `unordered_set` or `unordered_map` for fast average-case lookups and frequency counting. Remember that `pop()` removes without returning an element, and `unordered_map[key]` inserts a missing key, so use `count` or `find` when you only need to check whether a key exists.
+
+## Instagram
+
+Companion carousel: **C++ Fundamentals 13 — C++ STL Essentials for DSA**  
+Instagram: [@dsa.with.uttam](https://www.instagram.com/dsa.with.uttam/)
+

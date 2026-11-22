@@ -127,13 +127,35 @@ For 1,000,000 sorted numbers, finding the last one takes **1,000,000 steps** lin
 | `10_mistake_comparator_le.cpp` | strict comparator |
 | `11_leetcode_style_demo.cpp` | two-sum with sort + indexes |
 
-Compile any file with `g++ -std=c++17 file.cpp -o out && ./out`.
+Compile with warnings turned on to catch some of these:
+```bash
+g++ -std=c++17 -Wall -Wextra your-file.cpp -o your-file
+```
 
-## LeetCode practice
+## Compile and run
 
-- [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
-- [1. Two Sum](https://leetcode.com/problems/two-sum/)
-- [704. Binary Search](https://leetcode.com/problems/binary-search/)
-- [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/)
-- [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
-- [1356. Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
+### Windows (MSYS2 UCRT64 / MinGW)
+```bash
+g++ -std=c++17 stl-essentials.cpp -o stl-essentials.exe
+./stl-essentials.exe
+```
+
+### Linux / macOS
+```bash
+g++ -std=c++17 stl-essentials.cpp -o stl-essentials
+./stl-essentials
+```
+
+## Practice
+
+Open [`practice.md`](practice.md) for exercises.
+
+## Key takeaway
+
+Use `pair` to keep related values together, then use sorting and strict comparators to arrange them predictably. For efficient searching, keep the range sorted before using `binary_search`, `lower_bound`, or `upper_bound`, and use `sort` + `unique` + `erase` to remove duplicates. When sorting values for a problem such as Two Sum, store each value with its original index if the answer must refer to the input positions.
+
+## Instagram
+
+Companion carousel: **C++ Fundamentals 13 — C++ STL Essentials for DSA**  
+Instagram: [@dsa.with.uttam](https://www.instagram.com/dsa.with.uttam/)
+
