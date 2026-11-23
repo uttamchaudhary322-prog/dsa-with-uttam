@@ -21,19 +21,25 @@ You can also press `t` while browsing this repository on GitHub and search for t
 
 | Problem No. | Problem Name | Difficulty | Solution | Related Lesson |
 |---|---|---|---|---|
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [1.cpp](./1.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [26.cpp](./26.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [35.cpp](./35.cpp) | [Pairs, Sorting, and Searching Utilities](../cpp-fundamentals/14-pairs-sorting-and-searching-utilities/) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [58.cpp](./58.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [217.cpp](./217.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [231.cpp](./231.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | Easy | [258.cpp](./258.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [283.cpp](./283.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [344.cpp](./344.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [349.cpp](./349.cpp) | [Pairs, Sorting, and Searching Utilities](../cpp-fundamentals/14-pairs-sorting-and-searching-utilities/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Easy | [412.cpp](./412.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [485.cpp](./485.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [509.cpp](./509.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [704.cpp](./704.cpp) | [Pairs, Sorting, and Searching Utilities](../cpp-fundamentals/14-pairs-sorting-and-searching-utilities/) |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | Easy | [709.cpp](./709.cpp) | [Strings and String Operations](../cpp-fundamentals/09-strings-and-string-operations/) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy | [1281.cpp](./1281.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | Easy | [1295.cpp](./1295.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/) | Easy | [1342.cpp](./1342.cpp) | [Loops: for, while, do-while](../cpp-fundamentals/06-loops-for-while-do-while/) |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/) | Easy | [1356.cpp](./1356.cpp) | [Pairs, Sorting, and Searching Utilities](../cpp-fundamentals/14-pairs-sorting-and-searching-utilities/) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Easy | [1480.cpp](./1480.cpp) | [Arrays and Basic Array Operations](../cpp-fundamentals/08-arrays-and-basic-array-operations/) |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/) | Easy | [1491.cpp](./1491.cpp) | [Pairs, Sorting, and Searching Utilities](../cpp-fundamentals/14-pairs-sorting-and-searching-utilities/) |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) | Easy | [1523.cpp](./1523.cpp) | [Operators and Expressions](../cpp-fundamentals/04-operators-and-expressions/) |
